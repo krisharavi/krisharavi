@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krisharavi
+- 👋 Hi, I’m Krisha Ravichandran 
 - 🌱 I’m currently doing BEng (Hons) Software Engineering degree
 - Undergraduate Student  :)
 <!---
